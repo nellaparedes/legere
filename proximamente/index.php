@@ -8,7 +8,7 @@
     <meta name="robots" content="noindex,nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo 'Legere | Artículos de cuero y textil en Ecuador'; ?></title>
-    <meta name="description" content="<?php echo utf8_decode('Creamos, diseñamos, producimos y ofrecemos accesorios en cuero y textil que te acompañan en tu día a día.'); ?>"/>
+    <meta name="description" content="<?php echo 'Creamos, diseñamos, producimos y ofrecemos accesorios en cuero y textil que te acompañan en tu día a día.'; ?>"/>
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="css/foundation.min.css">
     <link rel="stylesheet" href="css/app.css">

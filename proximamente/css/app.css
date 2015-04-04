@@ -93,7 +93,7 @@ footer{width: 100%;position: absolute;bottom: 10px;text-align: center;left: 0;}
 @media only screen and (max-width: 1024px) {
 	.container{background: none;}
   .redes .icon:before{display: inline-block; margin-bottom: 0; }
-  .container p{font-size: 1.5rem;}
+  .container p{font-size: 1.8rem;}
   .container footer p{font-size: 1rem;}
   .redes .icon{font-size: 1.2rem;}
   .redes{margin-top: 1.5rem;margin-bottom: 1.5rem;}

@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^/proximamente/
+RewriteRule .* /proximamente/ [R=302,L]
+</IfModule>

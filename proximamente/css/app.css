@@ -100,7 +100,7 @@ footer{width: 100%;position: absolute;bottom: 10px;text-align: center;left: 0;}
   .columns.centered.logo{float: none;margin: 0 auto;}
   redes .icon:before{font-size: 1.6rem;}
 }
-@media screen and (orientation: landscape){
+@media screen and (orientation: landscape) and (max-width: 1024px){
   footer{position: relative;}
   .container{height: auto;overflow: hidden;}
 }

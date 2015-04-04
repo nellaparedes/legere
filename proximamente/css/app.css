@@ -91,14 +91,14 @@ footer{width: 100%;position: absolute;bottom: 10px;text-align: center;left: 0;}
  *behavior:url(/box-sizing.htc);
 }
 @media only screen and (max-width: 1024px) {
-	.container{background: none;}
+	.container{background: none;border: none;}
   .redes .icon:before{display: inline-block; margin-bottom: 0; }
   .container p{font-size: 1.6rem;}
   .container footer p{font-size: 1rem;}
   .redes .icon{font-size: 1.2rem;}
   .redes{margin-top: 1.5rem;margin-bottom: 1.5rem;}
   .columns.centered.logo{float: none;margin: 0 auto;}
-  redes .icon:before{font-size: 1.6rem;}
+  .redes .icon:before{font-size: 1.6rem;}
 }
 @media screen and (orientation: landscape) and (max-width: 1024px){
   footer{position: relative;}

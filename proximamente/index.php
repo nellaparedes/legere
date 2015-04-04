@@ -18,7 +18,7 @@
 	<div class="container">
     	<header id="header">
             <div class="row">
-                <div class="five columns centered" align="center">
+                <div class="five mobile-two columns centered" align="center">
                     <h1><img src="images/logo.jpg" alt="Legere" /></h1>
                 </div>
             </div>
